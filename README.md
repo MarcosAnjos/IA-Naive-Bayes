@@ -10,7 +10,7 @@
 ***********
 ## 📌[Instalação Software Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html)
 ***********
-## 📌[Relatorio do trabalho](docs/)
+## 📌[Relatorio do trabalho](docs/relatorio.pdf)
 ***********
 ## 📌[Base de dados Original](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 ***********
