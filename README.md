@@ -6,7 +6,7 @@
 ##  Teste do algoritmo de classificação **NAIVE BAYES** com software **Weka**
 
 ***********
-## 📌[Descrição do trabalho](docs/)
+## 📌[Descrição do trabalho](docs/trabalho-naive-bayes.pdf)
 ***********
 ## 📌[Instalação Software Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html)
 ***********
