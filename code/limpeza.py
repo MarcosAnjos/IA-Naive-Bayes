@@ -21,7 +21,7 @@ for sentence in data[0]:
 
 
 data[0] = list(map(lambda x: x.lower(), col))
-data.to_csv("putaria-limpa.csv", header=None, index=False)
+data.to_csv("base-final.csv", header=None, index=False)
 
 
 
